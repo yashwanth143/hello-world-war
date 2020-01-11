@@ -6,7 +6,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
-	<description>Simplest possible Java Webapp Yeswant 134</description>
+	<description>Simplest possible Java Webapp Yeswant 134 Hi</description>
 
 	<build>
 		<plugins>
